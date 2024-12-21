@@ -5,8 +5,8 @@ Welcome to the comprehensive 32-day full-stack training program! Below, you'll f
 ---
 
 ## 📄 Proposal
-- [Training Proposal Document](Proposal/Proposal.md)
-- [Trainer CV](Proposal/CV.pdf)
+- [Training Proposal Document](Proposal.md)
+- [Trainer CV](proposal/CV.pdf)
 
 ---
 

@@ -92,8 +92,8 @@ Below are some highlights from past sessions:
 
 <img src="IMG_8941.jpeg" alt="Session 1" style="width: 50%; height: auto;">
 <img src="IMG_8942.jpeg" alt="Session 2" style="width: 50%; height: auto;">
-<img src="IMG_8946.jpeg" alt="Session 3" style="width: 50%; height: auto;">
-<img src="IMG_8947.jpeg" alt="Session 4" style="width: 50%; height: auto;">
+<img src="IMG_8946.png" alt="Session 3" style="width: 50%; height: auto;">
+<img src="IMG_8947.png" alt="Session 4" style="width: 50%; height: auto;">
 <img src="IMG_8948.jpeg" alt="Session 5" style="width: 50%; height: auto;">
 <img src="IMG_8950.jpeg" alt="Session 6" style="width: 50%; height: auto;">
 

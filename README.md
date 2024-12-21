@@ -1,4 +1,4 @@
-# Training Proposal: Full-Stack Development Program
+# Full-Stack Development Program
 
 Welcome to the comprehensive 32-day full-stack training program! Below, you'll find all the resources organized by session.
 

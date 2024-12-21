@@ -90,6 +90,8 @@ Welcome to the comprehensive 32-day full-stack training program! Below, you'll f
 ## 📷 Training Gallery
 Below are some highlights from past sessions:
 ![Session 1](IMG_8941.jpeg)
+<img src="IMG_8941.jpeg" alt="Session 1" style="width: 50%; height: auto;">
+
 ![Session 2](Photos/Session2.jpg)
 
 ---

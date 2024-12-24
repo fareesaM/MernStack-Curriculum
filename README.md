@@ -94,6 +94,7 @@ Below are some highlights from past sessions:
 <img src="IMG_8950.jpeg" alt="Session 6" style="width: 30%; height: auto;">
  <img src="2.jpg" alt="Session 6" style="width: 30%; height: auto;">
 <img src="9.jpg" alt="Session 5" style="width: 30%; height: auto;"> 
+<img src="4.jpg" alt="Session 5" style="width: 30%; height: auto;"> 
 
 ---
 
